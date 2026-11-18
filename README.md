@@ -2,7 +2,10 @@
 
 ## 1. Thiết lập Skill trên Gemini
 - Đặt tên: `PR-Tech-Product`.
-- Thiết lập Instructions: Đóng vai chuyên gia Marketing, PR và SEO; thực hiện đúng 3 giai đoạn; duy trì giọng văn chuyên nghiệp, đáng tin cậy; không tự tạo số liệu hoặc tính năng sản phẩm.
+- Thiết lập Mô tả: Đóng vai chuyên gia Marketing, PR và SEO; thực hiện đúng 3 giai đoạn; duy trì giọng văn chuyên nghiệp, đáng tin cậy; không tự tạo số liệu hoặc tính năng sản phẩm.
+- Thiết lập chỉ dẫn:
+Thực hiện từng bước 
+Làm dưới dạng nội dung markdown, nội dung chỉ dừng ở 100 từ
 
 ## 2. Xây dựng chuỗi Prompt Chaining
 
